@@ -137,7 +137,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll/scholar
-  - jekyll-twitter-plugin
+  # - jekyll-twitter-plugin
   - jekyll-sitemap
   - jemoji
 
